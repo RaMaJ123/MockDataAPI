@@ -1,0 +1,46 @@
+[
+  {
+    "id": "EjGADyjWfD",
+    "name": "Application1",
+    "trouxId": "1234567",
+    "version": null,
+    "type": 0,
+    "description": "Application Description",
+    "contacts": [
+      {
+        "id": "VGTUjRedxJ",
+        "firstName": "Ramji",
+        "lastName": "Seetharaman",
+        "emailAddress": "ramji.sepak@gmail.com",
+        "cellPhone": "8172137126",
+        "slackId": null,
+        "appRole": 1,
+        "schedules": null
+      }
+    ],
+    "rules": [
+      {
+        "id": "VfwoIbQCND",
+        "name": "Rule1",
+        "component": "application1",
+        "type": 0,
+        "fieldName": "Message",
+        "fieldValue": "Message Sample",
+        "filterCriteria": 2,
+        "isSlackEnabled": true,
+        "isEmailEnabled": true,
+        "isSMSEnabled": true,
+        "contacts": [
+          {
+            "id": "VGTUjRedxJ",
+            "firstName": "Ramji",
+            "lastName": "Seetharaman",
+            "emailAddress": "ramji.sepak@gmail.com",
+            "cellPhone": "8172137126",
+            "slackId": null,
+            "appRole": 1,
+            "schedules": null
+          }
+        ]
+      }]
+  }]
