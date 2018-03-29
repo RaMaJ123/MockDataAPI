@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": "EjGADyjWfD",
     "name": "Application1",
     "trouxId": "1234567",
@@ -43,4 +42,4 @@
           }
         ]
       }]
-  }]
+  }
